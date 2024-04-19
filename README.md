@@ -4,6 +4,7 @@ This Python project offers several tools for working with IP addresses, includin
 # Features:
 - **IPCals Class:** Provides several methods for manipulating IP addresses, such as creating network masks, converting between integer, dotted-decimal, and binary string formats, determing network class, and extracting network information.
 - **IPHelper Class:** Provides an easy-to-use interface for getting detailed information about an IP address based on prefix length, which includes the address's class, network, broadcast, and host addresses.
+- **Easy to read:** Project if fully commented, so it will be easy for new users to manage and navigate the code.
 
 # Usage:
 1. Import the '**IPCals**' and '**IPHelper**' classes into your Python project.
